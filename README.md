@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allen Tawanda Mandevhana
-- 👀 I’m interested in food safety, food and nutrition security, human migration and displacements 
+- 👀 I’m interested in food safety, security and nutrition, human migration and displacements 
 - 🌱 I’m currently learning Data Analytics as well as Regulatory Affairs
   
 
